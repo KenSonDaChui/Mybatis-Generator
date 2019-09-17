@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mybatis-Generator.iml" filepath="$PROJECT_DIR$/.idea/Mybatis-Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-Generator-pom/Mybatis-Generator-pom.iml" filepath="$PROJECT_DIR$/Mybatis-Generator-pom/Mybatis-Generator-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisgenertor/mybatisgenertor.iml" filepath="$PROJECT_DIR$/mybatisgenertor/mybatisgenertor.iml" />
+    </modules>
+  </component>
+</project>
